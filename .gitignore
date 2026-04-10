@@ -1,0 +1,39 @@
+# Python and editor noise
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Archives and exports
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Model artifacts should live in a separate private models repo/package
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.model
+*.bin
+*.pt
+*.pth
+*.xgb
+
+# Local notes
+*.log
+*.tmp

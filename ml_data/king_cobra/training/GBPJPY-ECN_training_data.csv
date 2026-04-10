@@ -1,0 +1,2 @@
+timestamp,symbol,direction,entry,sl,tp,pnl,outcome,close,ema8,ema20,ema50,rsi,atr,adx,volume_ratio,ema8_ema20_diff,close_ema20_diff,h1_trend,spread,bar_range,bar_body
+2026-03-23T07:31:05.990200+00:00,GBPJPY-ECN,SELL,211.944,212.04,211.665,-51.4,LOSS,212.029,211.97875,212.046344,212.176702,44.41,0.082388,23.85,0.34,-0.8204,-0.2105,SELL,10,1.3594,1.056
