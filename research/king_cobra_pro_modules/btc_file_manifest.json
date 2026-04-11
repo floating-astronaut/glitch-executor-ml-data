@@ -1,0 +1,1583 @@
+[
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-18.csv",
+    "size_bytes": 420686,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-19.csv",
+    "size_bytes": 537458,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-20.csv",
+    "size_bytes": 267583,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-21.csv",
+    "size_bytes": 134358,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-22.csv",
+    "size_bytes": 19229,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-23.csv",
+    "size_bytes": 22799,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-24.csv",
+    "size_bytes": 30667,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-25.csv",
+    "size_bytes": 20124,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-26.csv",
+    "size_bytes": 36888,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-27.csv",
+    "size_bytes": 24229,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-28.csv",
+    "size_bytes": 13070,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-29.csv",
+    "size_bytes": 18541,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-30.csv",
+    "size_bytes": 23082,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\assistant\\assistant_signals_2026-03-31.csv",
+    "size_bytes": 3590,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-20.csv",
+    "size_bytes": 2407,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-21.csv",
+    "size_bytes": 2054,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-22.csv",
+    "size_bytes": 1623,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-23.csv",
+    "size_bytes": 2241,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-25.csv",
+    "size_bytes": 7644,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-26.csv",
+    "size_bytes": 59942,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-27.csv",
+    "size_bytes": 27699,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-28.csv",
+    "size_bytes": 7342,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-29.csv",
+    "size_bytes": 9288,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-30.csv",
+    "size_bytes": 6484,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\auto_trades\\signals_2026-03-31.csv",
+    "size_bytes": 3862,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\ml_data\\training\\BTCUSD_training_data.csv",
+    "size_bytes": 3891,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_Anaconda.csv",
+    "size_bytes": 6454075,
+    "status": "used",
+    "rows_used": 82704,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2011-03-23 22:00:00+00:00",
+      "2026-03-25 11:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_combined.csv",
+    "size_bytes": 6206111,
+    "status": "used",
+    "rows_used": 82706,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2011-03-23 22:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_Hydra.csv",
+    "size_bytes": 325118,
+    "status": "used",
+    "rows_used": 4307,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2025-09-25 00:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_KingCobra.csv",
+    "size_bytes": 388140,
+    "status": "used",
+    "rows_used": 4859,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2025-09-02 00:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_Taipan.csv",
+    "size_bytes": 6288667,
+    "status": "used",
+    "rows_used": 82704,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2011-03-23 22:00:00+00:00",
+      "2026-03-25 11:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H1_Viper.csv",
+    "size_bytes": 6205963,
+    "status": "used",
+    "rows_used": 82704,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2011-03-23 22:00:00+00:00",
+      "2026-03-25 11:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_Anaconda.csv",
+    "size_bytes": 1751358,
+    "status": "used",
+    "rows_used": 22432,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2011-03-23 20:00:00+00:00",
+      "2026-03-25 08:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_combined.csv",
+    "size_bytes": 1684136,
+    "status": "used",
+    "rows_used": 22433,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2011-03-23 20:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_Hydra.csv",
+    "size_bytes": 96909,
+    "status": "used",
+    "rows_used": 1258,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2025-08-26 00:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_KingCobra.csv",
+    "size_bytes": 113665,
+    "status": "used",
+    "rows_used": 1396,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2025-08-03 00:00:00+00:00",
+      "2026-03-25 12:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_Taipan.csv",
+    "size_bytes": 1706494,
+    "status": "used",
+    "rows_used": 22432,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2011-03-23 20:00:00+00:00",
+      "2026-03-25 08:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_H4_Viper.csv",
+    "size_bytes": 1684062,
+    "status": "used",
+    "rows_used": 22432,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2011-03-23 20:00:00+00:00",
+      "2026-03-25 08:00:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_Anaconda.csv",
+    "size_bytes": 8013504,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2023-05-18 18:15:00+00:00",
+      "2026-03-25 11:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_combined.csv",
+    "size_bytes": 7714323,
+    "status": "used",
+    "rows_used": 100010,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2023-05-18 18:15:00+00:00",
+      "2026-03-25 12:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_Hydra.csv",
+    "size_bytes": 1310331,
+    "status": "used",
+    "rows_used": 17209,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2025-09-25 00:00:00+00:00",
+      "2026-03-25 12:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_KingCobra.csv",
+    "size_bytes": 1323658,
+    "status": "used",
+    "rows_used": 16537,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2025-10-02 00:00:00+00:00",
+      "2026-03-25 12:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_Taipan.csv",
+    "size_bytes": 7813506,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2023-05-18 18:15:00+00:00",
+      "2026-03-25 11:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M15_Viper.csv",
+    "size_bytes": 7713506,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2023-05-18 18:15:00+00:00",
+      "2026-03-25 11:30:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_Anaconda.csv",
+    "size_bytes": 7965212,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-15 00:57:00+00:00",
+      "2026-03-25 11:39:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_combined.csv",
+    "size_bytes": 8575683,
+    "status": "used",
+    "rows_used": 111707,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-06 22:54:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_Hydra.csv",
+    "size_bytes": 7243432,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-14 19:52:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_KingCobra.csv",
+    "size_bytes": 7643425,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-14 19:52:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_Taipan.csv",
+    "size_bytes": 7769745,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-06 22:54:00+00:00",
+      "2026-03-25 11:39:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M1_Viper.csv",
+    "size_bytes": 7665214,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M1"
+    ],
+    "date_range": [
+      "2026-01-15 00:56:00+00:00",
+      "2026-03-25 11:38:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_Anaconda.csv",
+    "size_bytes": 7901698,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-04-12 04:05:00+00:00",
+      "2026-03-25 11:35:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_combined.csv",
+    "size_bytes": 7604328,
+    "status": "used",
+    "rows_used": 100035,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-04-12 04:05:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_Hydra.csv",
+    "size_bytes": 3838269,
+    "status": "used",
+    "rows_used": 51593,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-09-25 00:00:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_KingCobra.csv",
+    "size_bytes": 3881601,
+    "status": "used",
+    "rows_used": 49580,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-10-02 00:00:00+00:00",
+      "2026-03-25 12:40:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_Taipan.csv",
+    "size_bytes": 7701701,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-04-12 04:05:00+00:00",
+      "2026-03-25 11:35:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\INDIAN KING COBRA\\pro_modules\\ml_data\\btc_research\\btc_M5_Viper.csv",
+    "size_bytes": 7601701,
+    "status": "used",
+    "rows_used": 99999,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2025-04-12 04:05:00+00:00",
+      "2026-03-25 11:35:00+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-09.csv",
+    "size_bytes": 251199,
+    "status": "used",
+    "rows_used": 204,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-09 07:07:39.468311+00:00",
+      "2026-03-09 23:56:30.425047+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-10.csv",
+    "size_bytes": 175383,
+    "status": "used",
+    "rows_used": 147,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-10 00:01:30.754622+00:00",
+      "2026-03-10 17:27:28.531813+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-11.csv",
+    "size_bytes": 273019,
+    "status": "used",
+    "rows_used": 275,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-11 01:06:23.833588+00:00",
+      "2026-03-11 23:58:51.624161+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-12.csv",
+    "size_bytes": 278214,
+    "status": "used",
+    "rows_used": 287,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-12 00:03:52.071694+00:00",
+      "2026-03-12 23:57:55.885834+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-13.csv",
+    "size_bytes": 225027,
+    "status": "used",
+    "rows_used": 222,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-13 00:02:56.326354+00:00",
+      "2026-03-13 19:11:05.815094+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-14.csv",
+    "size_bytes": 84767,
+    "status": "used",
+    "rows_used": 202,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-14 02:20:12.381006+00:00",
+      "2026-03-14 23:59:39.307572+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-15.csv",
+    "size_bytes": 112478,
+    "status": "used",
+    "rows_used": 287,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-15 00:04:39.839497+00:00",
+      "2026-03-15 23:56:59.701646+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-16.csv",
+    "size_bytes": 274114,
+    "status": "used",
+    "rows_used": 267,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-16 00:02:00.265310+00:00",
+      "2026-03-16 23:57:41.519273+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-17.csv",
+    "size_bytes": 194356,
+    "status": "used",
+    "rows_used": 294,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-17 00:02:42.040888+00:00",
+      "2026-03-17 23:56:46.270393+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-18.csv",
+    "size_bytes": 185077,
+    "status": "used",
+    "rows_used": 288,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-18 00:01:46.733164+00:00",
+      "2026-03-18 23:59:16.842069+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-19.csv",
+    "size_bytes": 179888,
+    "status": "used",
+    "rows_used": 274,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-19 00:04:17.379374+00:00",
+      "2026-03-19 23:56:36.253196+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-20.csv",
+    "size_bytes": 171685,
+    "status": "used",
+    "rows_used": 286,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-20 00:01:36.730467+00:00",
+      "2026-03-20 23:57:26.304328+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-21.csv",
+    "size_bytes": 94877,
+    "status": "used",
+    "rows_used": 287,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-21 00:02:26.787500+00:00",
+      "2026-03-21 23:55:02.851097+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-22.csv",
+    "size_bytes": 96779,
+    "status": "used",
+    "rows_used": 288,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-22 00:00:03.460574+00:00",
+      "2026-03-22 23:57:33.525931+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-23.csv",
+    "size_bytes": 76992,
+    "status": "used",
+    "rows_used": 141,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-23 00:02:33.995538+00:00",
+      "2026-03-23 13:59:15.983981+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-26.csv",
+    "size_bytes": 38634,
+    "status": "used",
+    "rows_used": 72,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-26 18:01:48.224586+00:00",
+      "2026-03-26 23:57:32.617179+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-27.csv",
+    "size_bytes": 135128,
+    "status": "used",
+    "rows_used": 288,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-27 00:02:32.927714+00:00",
+      "2026-03-27 23:57:21.054223+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-28.csv",
+    "size_bytes": 95864,
+    "status": "used",
+    "rows_used": 288,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-28 00:02:21.667221+00:00",
+      "2026-03-28 23:59:30.674852+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-29.csv",
+    "size_bytes": 95711,
+    "status": "used",
+    "rows_used": 288,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-29 00:04:31.348998+00:00",
+      "2026-03-29 23:59:22.567130+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-30.csv",
+    "size_bytes": 130323,
+    "status": "used",
+    "rows_used": 287,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-30 00:04:23.025632+00:00",
+      "2026-03-30 23:57:04.977618+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\anaconda\\anaconda_signals_2026-03-31.csv",
+    "size_bytes": 17861,
+    "status": "used",
+    "rows_used": 51,
+    "timeframes": [
+      "H4"
+    ],
+    "date_range": [
+      "2026-03-31 00:02:05.271769+00:00",
+      "2026-03-31 04:12:25.095954+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-07.csv",
+    "size_bytes": 149124,
+    "status": "used",
+    "rows_used": 271,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-07 11:14:53.700169+00:00",
+      "2026-03-07 23:21:17.657522+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-08.csv",
+    "size_bytes": 126336,
+    "status": "used",
+    "rows_used": 9,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-08 11:00:07.558819+00:00",
+      "2026-03-08 11:08:10.244991+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-09.csv",
+    "size_bytes": 737678,
+    "status": "used",
+    "rows_used": 963,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-09 07:06:32.375607+00:00",
+      "2026-03-09 23:20:44.035641+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-10.csv",
+    "size_bytes": 957335,
+    "status": "used",
+    "rows_used": 1039,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-10 02:17:49.620202+00:00",
+      "2026-03-10 23:59:53.515746+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-11.csv",
+    "size_bytes": 988578,
+    "status": "used",
+    "rows_used": 1293,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-11 00:00:53.873602+00:00",
+      "2026-03-11 23:59:09.308159+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-12.csv",
+    "size_bytes": 839832,
+    "status": "used",
+    "rows_used": 1179,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-12 00:00:09.816504+00:00",
+      "2026-03-12 23:59:13.645259+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-13.csv",
+    "size_bytes": 990606,
+    "status": "used",
+    "rows_used": 1351,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-13 00:00:14.104471+00:00",
+      "2026-03-13 23:59:57.813761+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-14.csv",
+    "size_bytes": 112015,
+    "status": "used",
+    "rows_used": 213,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-14 00:00:58.270136+00:00",
+      "2026-03-14 04:01:14.769015+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-15.csv",
+    "size_bytes": 59591,
+    "status": "used",
+    "rows_used": 216,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-15 13:09:28.255512+00:00",
+      "2026-03-15 23:59:50.635866+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-16.csv",
+    "size_bytes": 1033867,
+    "status": "used",
+    "rows_used": 1205,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-16 00:00:51.168899+00:00",
+      "2026-03-16 23:59:40.765709+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\cobra\\cobra_signals_2026-03-17.csv",
+    "size_bytes": 928621,
+    "status": "used",
+    "rows_used": 282,
+    "timeframes": [
+      "H1"
+    ],
+    "date_range": [
+      "2026-03-17 00:00:41.246693+00:00",
+      "2026-03-17 06:51:28.365571+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-07.csv",
+    "size_bytes": 1076547,
+    "status": "used",
+    "rows_used": 2633,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-07 02:43:43.296243+00:00",
+      "2026-03-07 23:59:45.013703+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-08.csv",
+    "size_bytes": 1139993,
+    "status": "used",
+    "rows_used": 2875,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-08 00:00:15.338006+00:00",
+      "2026-03-08 23:59:45.280157+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-09.csv",
+    "size_bytes": 2802439,
+    "status": "used",
+    "rows_used": 2825,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-09 00:00:15.703379+00:00",
+      "2026-03-09 23:59:49.421369+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-10.csv",
+    "size_bytes": 2029341,
+    "status": "used",
+    "rows_used": 1973,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-10 00:00:20.147475+00:00",
+      "2026-03-10 17:27:55.206561+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-11.csv",
+    "size_bytes": 2874013,
+    "status": "used",
+    "rows_used": 2684,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-11 01:06:39.557514+00:00",
+      "2026-03-11 23:59:59.294994+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-12.csv",
+    "size_bytes": 2901922,
+    "status": "used",
+    "rows_used": 2820,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-12 00:00:29.837647+00:00",
+      "2026-03-12 23:59:42.521291+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-13.csv",
+    "size_bytes": 2711870,
+    "status": "used",
+    "rows_used": 3206,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-13 00:00:12.958565+00:00",
+      "2026-03-13 23:59:53.363733+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-14.csv",
+    "size_bytes": 1083477,
+    "status": "used",
+    "rows_used": 2530,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-14 00:00:23.060934+00:00",
+      "2026-03-14 23:59:47.851294+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-15.csv",
+    "size_bytes": 1694083,
+    "status": "used",
+    "rows_used": 4122,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-15 00:00:18.686543+00:00",
+      "2026-03-15 23:59:54.835700+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-16.csv",
+    "size_bytes": 2968945,
+    "status": "used",
+    "rows_used": 3221,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-16 00:00:18.659453+00:00",
+      "2026-03-16 23:59:44.226299+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\mamba\\mamba_signals_2026-03-17.csv",
+    "size_bytes": 3670282,
+    "status": "used",
+    "rows_used": 2024,
+    "timeframes": [
+      "M15"
+    ],
+    "date_range": [
+      "2026-03-17 00:00:14.846969+00:00",
+      "2026-03-17 17:41:06.059280+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\archive_19col\\taipan_signals_2026-03-07.csv",
+    "size_bytes": 3525,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\archive_19col\\taipan_signals_2026-03-08.csv",
+    "size_bytes": 49323,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-09.csv",
+    "size_bytes": 55329,
+    "status": "empty_after_normalize",
+    "rows_used": 0,
+    "timeframes": []
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-10.csv",
+    "size_bytes": 330917,
+    "status": "used",
+    "rows_used": 225,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-10 00:01:49.842794+00:00",
+      "2026-03-10 23:56:58.770404+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-11.csv",
+    "size_bytes": 276733,
+    "status": "used",
+    "rows_used": 98,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-11 00:01:37.308049+00:00",
+      "2026-03-11 23:59:08.844603+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-12.csv",
+    "size_bytes": 170852,
+    "status": "used",
+    "rows_used": 273,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-12 00:04:11.224118+00:00",
+      "2026-03-12 23:57:51.556234+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-13.csv",
+    "size_bytes": 279211,
+    "status": "used",
+    "rows_used": 88,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-13 00:02:53.809744+00:00",
+      "2026-03-13 23:58:57.775314+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-14.csv",
+    "size_bytes": 91880,
+    "status": "used",
+    "rows_used": 268,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-14 00:04:00.162634+00:00",
+      "2026-03-14 23:55:09.226309+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-15.csv",
+    "size_bytes": 30295,
+    "status": "used",
+    "rows_used": 96,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-15 00:00:11.686738+00:00",
+      "2026-03-15 23:58:28.954416+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-16.csv",
+    "size_bytes": 111160,
+    "status": "used",
+    "rows_used": 96,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-16 00:03:31.621654+00:00",
+      "2026-03-16 23:58:56.816101+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\taipan\\taipan_signals_2026-03-17.csv",
+    "size_bytes": 194530,
+    "status": "used",
+    "rows_used": 59,
+    "timeframes": [
+      "M30"
+    ],
+    "date_range": [
+      "2026-03-17 00:03:59.350280+00:00",
+      "2026-03-17 04:58:51.790631+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-07.csv",
+    "size_bytes": 2661544,
+    "status": "used",
+    "rows_used": 6885,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-07 02:43:43.296185+00:00",
+      "2026-03-07 23:59:53.470183+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-08.csv",
+    "size_bytes": 1643393,
+    "status": "used",
+    "rows_used": 3163,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-08 00:00:03.803817+00:00",
+      "2026-03-08 10:25:07.430249+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-09.csv",
+    "size_bytes": 6005692,
+    "status": "used",
+    "rows_used": 4725,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-09 07:09:36.895681+00:00",
+      "2026-03-09 23:59:57.432160+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-10.csv",
+    "size_bytes": 4670878,
+    "status": "used",
+    "rows_used": 4677,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-10 00:00:08.117708+00:00",
+      "2026-03-10 17:28:09.330812+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-11.csv",
+    "size_bytes": 7003671,
+    "status": "used",
+    "rows_used": 7163,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-11 01:06:29.818646+00:00",
+      "2026-03-11 23:59:50.528906+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-12.csv",
+    "size_bytes": 7803697,
+    "status": "used",
+    "rows_used": 8119,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-12 00:00:00.971665+00:00",
+      "2026-03-12 23:59:56.606474+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-13.csv",
+    "size_bytes": 6832251,
+    "status": "used",
+    "rows_used": 7769,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-13 00:00:07.054596+00:00",
+      "2026-03-13 23:59:52.903524+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-14.csv",
+    "size_bytes": 2449883,
+    "status": "used",
+    "rows_used": 5162,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-14 00:00:03.371991+00:00",
+      "2026-03-14 23:48:11.500388+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-15.csv",
+    "size_bytes": 4842604,
+    "status": "used",
+    "rows_used": 10444,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-15 00:01:33.341936+00:00",
+      "2026-03-15 23:59:52.849224+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-16.csv",
+    "size_bytes": 8965693,
+    "status": "used",
+    "rows_used": 9990,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-16 00:00:00.717668+00:00",
+      "2026-03-16 23:59:53.545111+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-17.csv",
+    "size_bytes": 3903879,
+    "status": "used",
+    "rows_used": 8125,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-17 00:00:04.231207+00:00",
+      "2026-03-17 23:59:49.537559+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-18.csv",
+    "size_bytes": 3798755,
+    "status": "used",
+    "rows_used": 8147,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-18 00:00:00.072983+00:00",
+      "2026-03-18 23:59:58.642284+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-19.csv",
+    "size_bytes": 3576516,
+    "status": "used",
+    "rows_used": 7736,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-19 00:00:09.145398+00:00",
+      "2026-03-19 23:59:51.820865+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-20.csv",
+    "size_bytes": 3531528,
+    "status": "used",
+    "rows_used": 7959,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-20 00:00:02.352781+00:00",
+      "2026-03-20 23:59:54.979701+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-21.csv",
+    "size_bytes": 2585497,
+    "status": "used",
+    "rows_used": 8103,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-21 00:00:07.556636+00:00",
+      "2026-03-21 23:59:58.580659+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-22.csv",
+    "size_bytes": 2521449,
+    "status": "used",
+    "rows_used": 8014,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-22 00:00:09.079523+00:00",
+      "2026-03-22 23:59:54.007581+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-23.csv",
+    "size_bytes": 3541531,
+    "status": "used",
+    "rows_used": 7611,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-23 00:00:04.488984+00:00",
+      "2026-03-23 23:59:51.696557+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-24.csv",
+    "size_bytes": 3458488,
+    "status": "used",
+    "rows_used": 7482,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-24 00:00:02.485358+00:00",
+      "2026-03-24 23:59:48.888141+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-25.csv",
+    "size_bytes": 3421977,
+    "status": "used",
+    "rows_used": 7688,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-24 23:59:59.991288+00:00",
+      "2026-03-25 23:59:55.528129+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-26.csv",
+    "size_bytes": 3413431,
+    "status": "used",
+    "rows_used": 7855,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-26 00:00:06.083281+00:00",
+      "2026-03-26 23:59:55.624082+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-27.csv",
+    "size_bytes": 3248860,
+    "status": "used",
+    "rows_used": 7848,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-27 00:00:06.104697+00:00",
+      "2026-03-27 23:59:58.941819+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-28.csv",
+    "size_bytes": 2396537,
+    "status": "used",
+    "rows_used": 8113,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-28 00:00:09.711628+00:00",
+      "2026-03-28 23:59:54.002662+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-29.csv",
+    "size_bytes": 2393906,
+    "status": "used",
+    "rows_used": 8070,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-29 00:00:05.270787+00:00",
+      "2026-03-29 23:59:50.461654+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-30.csv",
+    "size_bytes": 3416502,
+    "status": "used",
+    "rows_used": 7860,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-30 00:00:00.992119+00:00",
+      "2026-03-30 23:59:50.092751+00:00"
+    ]
+  },
+  {
+    "path": "C:\\Users\\Administrator\\.openclaw\\workspace\\pro_modules\\ml_data\\viper\\viper_signals_2026-03-31.csv",
+    "size_bytes": 425678,
+    "status": "used",
+    "rows_used": 1430,
+    "timeframes": [
+      "M5"
+    ],
+    "date_range": [
+      "2026-03-31 00:00:00.635043+00:00",
+      "2026-03-31 04:14:45.725388+00:00"
+    ]
+  }
+]

@@ -4,7 +4,7 @@ Current extracted dataset inventory for the private Glitch ML data repository.
 
 ## Summary
 
-- Approximate size: `182.82 MB`
+- Approximate size: `880.44 MB`
 - Top-level sources:
   - `viper`
   - `cobra`
@@ -14,6 +14,9 @@ Current extracted dataset inventory for the private Glitch ML data repository.
   - `hydra`
   - `king_cobra`
   - `terciopelo`
+- Research sources:
+  - `research/hydra`
+  - `research/king_cobra_pro_modules`
 
 ## File Counts
 
@@ -34,3 +37,6 @@ Current extracted dataset inventory for the private Glitch ML data repository.
 - `terciopelo` is represented by closed-trade resolution JSON files rather than the same CSV schema used by the snake bots.
 - `king_cobra` is split into `training`, `auto_trades`, and `assistant` datasets.
 - `taipan` includes an `archive_19col` folder for the older schema variant.
+- `research/hydra` contains indicator backtests, multitimeframe experiments, merged XAU research datasets, and retrain reports.
+- `research/king_cobra_pro_modules` contains combined all-bot datasets, manifests, and BTC research exports from the King Cobra research pipeline.
+- `research/king_cobra_pro_modules/btc_combined_all_bots.csv` was split into `btc_combined_all_bots_parts/` to stay within normal GitHub file-size limits without relying on Git LFS.

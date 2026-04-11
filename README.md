@@ -10,6 +10,7 @@ This repository exists to:
 
 - preserve irreplaceable historical ML data
 - centralize bot-specific CSV and JSON outcome datasets
+- preserve research datasets and merged experiment outputs
 - make future data drops easy to append in one place
 - keep research data separate from the public code repositories
 
@@ -22,7 +23,8 @@ Do not publish it, mirror it, or copy it into any public Glitch repository.
 ## Current Dataset
 
 - Bots included: `viper`, `cobra`, `taipan`, `mamba`, `anaconda`, `hydra`, `king_cobra`, `terciopelo`
-- Approximate current size: `182.82 MB`
+- Approximate current size: `880.44 MB`
+- Research snapshots included under `research/` for Hydra and King Cobra
 - Schema notes: [docs/ml_schema_comparison.md](./docs/ml_schema_comparison.md)
 - Inventory: [docs/data-inventory.md](./docs/data-inventory.md)
 
@@ -39,6 +41,9 @@ glitch-ml-data-private/
 |   |-- hydra/
 |   |-- king_cobra/
 |   `-- terciopelo/
+|-- research/
+|   |-- hydra/
+|   `-- king_cobra_pro_modules/
 `-- docs/
 ```
 
@@ -62,5 +67,6 @@ This private repo holds the data moat behind that work:
 - ML training CSVs
 - assistant signal logs
 - resolution JSON histories
+- research merges and experimental dataset exports
 
 If this dataset is ever shared externally, it should be done deliberately and by maintainer decision only.
