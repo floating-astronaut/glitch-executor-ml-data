@@ -1,72 +1,43 @@
-# Glitch ML Data
+# Glitch Executor ML Data
 
 Private ML data repository for the Glitch Executor ecosystem.
 
-This repo is intended to hold the accumulated training data, labeled outcomes, and research datasets behind the Glitch trading stack. It is not a public repo and should remain private.
+This repository holds the raw and cleaned datasets behind the Glitch trading stack: training exports, labeled outcomes, merged research snapshots, and bot-level data that should stay separate from both public code and trained-model artifacts.
 
-## Purpose
+## Repo Role
 
-This repository exists to:
+This repo is the data layer for the Glitch trading family. It exists to preserve:
 
-- preserve irreplaceable historical ML data
-- centralize bot-specific CSV and JSON outcome datasets
-- preserve research datasets and merged experiment outputs
-- make future data drops easy to append in one place
-- keep research data separate from the public code repositories
+- raw bot-level ML datasets
+- cleaned dataset variants
+- research-only data drops
+- labeled outcomes and merged experiment exports
+- schema and inventory documentation
 
-## Privacy Rule
+## What Lives Here
+
+- `ml_data/` for primary bot-level datasets
+- `ml_data_clean/` for cleaned or normalized derivatives
+- `research/` for experiment snapshots and exploratory exports
+- `docs/` for inventories and schema notes
+
+## Privacy
 
 This repository must remain private.
 
-Do not publish it, mirror it, or copy it into any public Glitch repository.
+Do not mirror it to a public repo. Do not commit credentials, broker state, or environment secrets. If any subset is ever shared externally, it should be done deliberately and by maintainer decision only.
 
-## Current Dataset
+## Relationship To Other Repos
 
-- Bots included: `viper`, `cobra`, `taipan`, `mamba`, `anaconda`, `hydra`, `king_cobra`, `terciopelo`
-- Approximate current size: `880.44 MB`
-- Research snapshots included under `research/` for Hydra and King Cobra
-- Schema notes: [docs/ml_schema_comparison.md](./docs/ml_schema_comparison.md)
-- Inventory: [docs/data-inventory.md](./docs/data-inventory.md)
+- public Glitch repos expose architecture and strategy code
+- `glitch-executor-ml-data` stores the raw and cleaned training-data layer
+- `glitch-executor-ml-models` stores the trained artifact layer derived from this data
 
-## Structure
-
-```text
-glitch-ml-data-private/
-|-- ml_data/
-|   |-- viper/
-|   |-- cobra/
-|   |-- taipan/
-|   |-- mamba/
-|   |-- anaconda/
-|   |-- hydra/
-|   |-- king_cobra/
-|   `-- terciopelo/
-|-- research/
-|   |-- hydra/
-|   `-- king_cobra_pro_modules/
-`-- docs/
-```
-
-## Future Data Drops
+## Working Notes
 
 When adding new data:
 
-- keep the existing bot folder names stable
-- preserve original filenames when possible
-- add only data files, not environments or logs
-- keep secrets, credentials, and broker state out of this repo
-- update [docs/data-inventory.md](./docs/data-inventory.md) if the structure changes materially
-
-## Relationship To Public Repos
-
-The public Glitch repositories expose the architecture and strategy layer.
-
-This private repo holds the data moat behind that work:
-
-- labeled trade outcomes
-- ML training CSVs
-- assistant signal logs
-- resolution JSON histories
-- research merges and experimental dataset exports
-
-If this dataset is ever shared externally, it should be done deliberately and by maintainer decision only.
+- keep bot folder names stable where possible
+- preserve source filenames unless normalization requires a new derivative
+- document structural changes in `docs/`
+- avoid disposable runtime noise, logs, and caches
